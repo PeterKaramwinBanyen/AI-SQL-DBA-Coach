@@ -145,8 +145,17 @@ Analytics	Excel and Power BI integration
 ⸻
 
 📸 Project Screenshots
+agent-profile.png
+agent-configuration.png
+preview-interface.png
+learning-session.png
+instruction-engineering
+knowledge-engineering
+prompt-engineering
+interaction-examples
+error handling-feedback
+monitoring-analytics
 
-Screenshots demonstrating the AI-SQL-DBA-Coach agent, learning interactions, assessments, and outputs will be added here.
 
 ⸻
 
