@@ -145,16 +145,17 @@ Analytics	Excel and Power BI integration
 ⸻
 
 📸 Project Screenshots
+
 agent-profile.png
 agent-configuration.png
 preview-interface.png
 learning-session.png
-instruction-engineering
-knowledge-engineering
-prompt-engineering
-interaction-examples
-error handling-feedback
-monitoring-analytics
+instruction-engineering.png
+knowledge-engineering.png
+prompt-engineering.png
+interaction-examples.png
+error handling-feedback.png
+monitoring-analytics.png
 
 
 ⸻
