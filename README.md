@@ -194,3 +194,24 @@ monitoring-analytics.png
 Status: Completed / Portfolio Project
 
 This project demonstrates the practical application of AI, SQL Server, database administration concepts, and structured learning design to create an AI-powered technical coaching solution.
+
+
+👤 Author
+
+Peter Karamwin Banyen
+
+Data Science & Analytics | SQL Server | Database Administration | AI & Data
+
+📍 Ghana
+
+🔗 Connect
+
+* LinkedIn: [Peter Karamwin Banyen](https://www.linkedin.com/in/peter-karamwin-banyen-data-scientist-a058a798?utm_source=share_via&utm_content=profile&utm_medium=member_ios)⁠￼
+
+* GitHub: [Peter Karamwin Banyen](https://github.com/PeterKaramwinBanyen/AI-SQL-DBA-Coach)
+
+⸻
+
+⭐ If you found this project useful, consider giving the repository a star.
+
+
